@@ -1,0 +1,10 @@
+p {
+	color: gold;
+	background-color: black;
+	font-size: large;
+	text-align: right
+}
+
+h1 {
+	text-shadow: 2px 2px #DC143C;
+}
