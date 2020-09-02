@@ -1,0 +1,57 @@
+body {
+	background-color: black;
+}
+
+p {
+	color: red;
+	font-size: large;
+	text-align: center;
+}
+
+h1 {
+	color: red;
+	font-size: x-large;
+	text-align: center;
+	text-decoration: underline;
+}
+
+nav {
+	font-size: x-large;
+	text-align: center;
+}
+
+summary {
+	color: red;
+	font-size: large;
+	text-align: center;
+}
+
+img {
+	border: 2px solid red;
+	padding: 5px
+}
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 200;
+}
+
+form {
+	color: red;
+	font-size: large;
+	text-align: center;
+}
+
+iframe {
+	width: 500px;
+	height: 250px;
+	margin: 0 auto;
+	display: block;
+}
+
+	
+	
+
+
